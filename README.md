@@ -5,5 +5,3 @@
 **Question: https://github.com/KBLin1996/PACMAN/blob/master/Program%201(a)%20Search%20in%20Pac-Man.pdf**
 
 **Reference to Execute: Please Download all the files and consult "search.html" (Question 1, 2)**
-
-**Report: Please Download all the files and consult Program 1(a) Search in Pac-Man.pdf, which
